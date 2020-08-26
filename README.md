@@ -9,3 +9,11 @@ Eunchong Kang
 
 
 ====================================
+Usage
+
+
+You'll need Docker and the ability to run Docker as your current user.
+
+
+confirming
+
