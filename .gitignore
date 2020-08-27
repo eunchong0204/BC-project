@@ -1,4 +1,4 @@
 .local/*
 .rstudio/*
 .active-rstudio-document
-.derived-data/*.csv
+derived-data/*.csv
