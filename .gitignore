@@ -1,2 +1,4 @@
 .local/*
 .rstudio/*
+.active-rstudio-document
+.derived-data/*.csv
